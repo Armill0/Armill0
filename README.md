@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... no one.
 - 📫 How to reach me ... no way.
 - 😄 Pronouns: ... 
-- ⚡ Fun fact: ... you're reading this for no apparently reasons.
+- ⚡ Fun fact: ... you're reading this for no reasons.
 
 <!---
 Armill0/Armill0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
